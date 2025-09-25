@@ -19,7 +19,7 @@
   Aplicativos para iOS e Android com performance e UX agradáveis
 
 - 🧩 **Backend Escalável**  
-  APIs seguras, microsserviços e lógica de negócio com Node.js, Python, PHP e Ruby
+  APIs seguras, microsserviços e lógica de negócio com Node.js, Lua, PHP e C+
   
 - 🛡️ **Banco de Dados Otimizado**  
   Modelagem eficiente, segurança e performance com MySQL e MongoDB
